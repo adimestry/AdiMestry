@@ -1,3 +1,4 @@
+![logo](https://github.com/adimestry/AdiMestry/blob/main/Dark%20Green%20and%20Yellow%20Futuristic%20AI%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Mestry</h1>
 <h3 align="center">A Passionate Designer & Frontend Developer from India</h3>
 
